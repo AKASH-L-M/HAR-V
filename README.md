@@ -1,6 +1,4 @@
 <h2>HAR-V</h2>
-<br>
-
 <h4>LOGO:</h4>
 <img src='https://user-images.githubusercontent.com/91725049/199463952-c23bb6cb-bad6-481d-b7bc-7c0c2779f1f5.jpg' width=150 height=110px />
 
