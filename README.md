@@ -1,5 +1,7 @@
 <h2>HAR-V</h2>
 
+Link to our project webite: Will be released soon...
+
 <br>
 <h2>Project Logo</h2><br>
 <img src='https://user-images.githubusercontent.com/91725049/199463961-be97277c-7732-4484-9e9c-607944b16a40.jpg' height=200px width=350px>
